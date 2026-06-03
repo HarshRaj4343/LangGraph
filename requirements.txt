@@ -1,0 +1,7 @@
+langgraph
+langchain
+pandas 
+numpy
+langchain-huggingface
+dotenv
+langchain-google-genai
