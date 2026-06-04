@@ -5,3 +5,4 @@ numpy
 langchain-huggingface
 dotenv
 langchain-google-genai
+streamlit
