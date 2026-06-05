@@ -6,3 +6,7 @@ langchain-huggingface
 dotenv
 langchain-google-genai
 streamlit
+langchain-groq
+langchain_community
+duckduckgo-search
+ddgs
