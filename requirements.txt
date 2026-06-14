@@ -10,3 +10,4 @@ langchain-groq
 langchain_community
 duckduckgo-search
 ddgs
+langchain-ollama
