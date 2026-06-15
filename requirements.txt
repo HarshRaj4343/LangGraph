@@ -11,3 +11,6 @@ langchain_community
 duckduckgo-search
 ddgs
 langchain-ollama
+langgraph
+langgraph-checkpoint-postgres
+psycopg[binary,pool]
